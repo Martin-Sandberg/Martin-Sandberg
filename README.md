@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi Everyone, I'm a Swedish business student passionate about Finance and Data Analytics.
+I'm a Swedish business student passionate about Finance and Data Analytics.
 
 I earned a bachelors degree in economics, with minors in mathematics and communication studies, from Rollins College in Orlando, Florida. I then went on to attain two master's degrees in Finance and Business Analytics from Hult International Business School to launch my Finance career in the US. 
 
