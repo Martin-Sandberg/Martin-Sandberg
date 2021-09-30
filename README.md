@@ -6,7 +6,7 @@ I earned a bachelors degree in economics, with minors in mathematics and communi
 
 I am very passionate about business, finance, and leveraging data analytics to find useful business solutions and superior retuns.
 
-The biggest project I'm continously working on is a backtesting program for European option trading strategies in Python, incorporating the Black-Scholes pricing model and margin calls. While I won't make the code public here, I'm always interested in discussing ideas, code, problems, and solutions on the topic. 
+The biggest project I'm continously working on is a backtesting program for European option trading strategies in Python, incorporating the Black-Scholes pricing model and margin calls. While I won't make the code public here (👀), I'm always interested in discussing ideas, code, problems, and solutions on the topic. 
 
 Lets get in touch:
 https://www.linkedin.com/in/karlmartinsandberg/
